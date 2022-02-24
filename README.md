@@ -28,7 +28,7 @@ Mobile Notes is a note taker application that let users save and delete quick no
 
 ## Usage
 Link to Application: <br />
-https:
+https://mobile-notes.herokuapp.com/
 ![Screenshot](./public/assets/images/note-taker1.jpg)<br/>
 ![Screenshot](./public/assets/images/note-taker2.jpg)
 
